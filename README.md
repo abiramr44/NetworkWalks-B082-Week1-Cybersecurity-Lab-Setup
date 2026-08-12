@@ -17,7 +17,7 @@ Four virtual machines, one attacker and three targets:
 
 I kept the 2025.4 image around as a backup after I broke networking on my main box and wasn't sure I could fix it. Turned out I could, but having a clean fallback took a lot of the pressure off while I was experimenting.
 
-![Lab overview](Full%20Cybersecuirty%20&%20Pentesting%20Lab%20Setup.png)
+![Lab overview](Full%20Cybersecurity%20&%20Pentesting%20Lab%20Setup.png)
 
 ## Steps I followed
 
@@ -163,7 +163,7 @@ Changing one thing at a time also matters. When I was stuck I started adjusting 
 
 All screenshots were taken during the actual setup, nothing was recreated afterwards.
 
-- `Full Cybersecuirty & Pentesting Lab Setup.png` - VirtualBox Manager showing all four VMs
+- `Full Cybersecurity & Pentesting Lab Setup.png` - VirtualBox Manager showing all four VMs
 - `VirtualBox NATNetwork Config.png` - NAT Network setup, 10.0.2.0/24 with DHCP
 - `Kali Linux System Config 1.png` - Kali motherboard and boot settings
 - `Kali Linux System Config 2.png` - Kali acceleration settings
